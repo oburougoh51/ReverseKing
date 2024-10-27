@@ -1,4 +1,4 @@
-// https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L
+// https://whatsapp.com/channel/0029Vao11A529758tTEQZo1e
 
 const {
   smd,
@@ -17,7 +17,7 @@ smd(
     try {
       // The styled welcome message content
       const welcomeMessage = `
-╔══✪〘 *𝙉𝙄𝙆𝙆𝘼 𝘽𝙊𝙏𝙕 ⁱⁿᶜ* 〙✪══╗
+╔══✪〘 *𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 ⁱⁿᶜ* 〙✪══╗
 
 ┏━━━━━━━━━━━━━┓
 ┃ ✪ *Home of:*
@@ -34,7 +34,7 @@ smd(
 ⚡ *And so much more!* ⚡
 🔗 Click the link ASAP:
 
-🌐 《https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L 》
+🌐 《https://whatsapp.com/channel/0029Vao11A529758tTEQZo1e 》
 
 ╚══════════════════════════╝
       `;
