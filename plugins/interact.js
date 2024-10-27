@@ -11,18 +11,18 @@ smd(
   },
   async (message) => {
     const response = `
-🌟✨ **Hey, I'm Queen Nikka!** ✨🌟
-I'm a multipurpose bot developed by Haki to suit your WhatsApp needs. 
+🌟✨ **Hey, I'm Reverse King!** ✨🌟
+I'm a multipurpose bot developed by Reverseking to suit your WhatsApp needs. 
 
 👉 Please type *${prefix}menu* to see the bot menu!
 
-❤ Made with love by Haki, thank you! 
+❤ Made with love by ReverseKing, thank you! 
 `;
 
     const finalMessage = `${response}\n\n*powered by haki*`; // Customize with your watermark
 
     await message.send(
-      "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
+      "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
       { caption: finalMessage },
       "img",
       message
