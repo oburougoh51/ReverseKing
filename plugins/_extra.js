@@ -48,7 +48,7 @@ _Note: Sometimes data will be reset when the bot restarts!_
 *USERNAME 👉 MESSAGE COUNT(s)*
 ${_0x338160}
 
-🔰 *𝙉𝙄𝙆𝙆𝘼 𝘽𝙊𝙏𝙕 ⁱⁿᶜ* 🔰`.trim();
+😈 *🐉𝑹𝑬𝑽𝑬𝑹𝑺𝑬  𝑲𝑰𝑵𝑮🐉 ⁱⁿᶜ* 😈`.trim();
     
     await _0x1cec94.send(_0x370694, {
       contextInfo: {
@@ -204,7 +204,7 @@ smd({
         edit: _0x2d7cf6
       }, "asta", _0x4e7c63);
     } catch (_0x28ce7e) {}
-    let _0x50f17a = " *👸 QUEEN NIKKA- ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features 👉 " + _0x4cf8ed + "_\n  \n*◦ BOT FEATURES*\n\n      Plugins 👉 " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+    let _0x50f17a = " *🐉𝑹𝑬𝑽𝑬𝑹𝑺𝑬  𝑲𝑰𝑵𝑮 - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features 👉 " + _0x4cf8ed + "_\n  \n*◦ BOT FEATURES*\n\n      Plugins 👉 " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
     await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
       requestPaymentMessage: {
         currencyCodeIso4217: "PK",
@@ -260,12 +260,12 @@ smd({
 
 ╰━━━━━━━━━━━━━━━━━━━━━━━╯
 
-👑 *𝙉𝙄𝙆𝙆𝘼 𝘽𝙊𝙏𝙕 ⁱⁿᶜ* 👑
+👑 *𝑹𝑬𝑽𝑬𝑹𝑺𝑬  𝑲𝑰𝑵𝑮 ⁱⁿᶜ* 👑
   _Your trusty character checker!_
   `;
 
   await _0x2a677e.send(
-    "https://files.catbox.moe/bh2fpj.jpg", // Replace with your desired image URL
+    "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your desired image URL
     { caption: _0x3b31ed, mentions: [_0x32c078] },
     "img",
     _0x2a677e
@@ -649,7 +649,7 @@ smd({
 
     // Send the image along with the final message
     await message.send(
-      "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
+      "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
       { caption: finalMessage },
       "img",
       message
