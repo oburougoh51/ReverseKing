@@ -31,14 +31,14 @@ smd(
 
 ╰━━━━━━━━━━━━━━━━━━━━━━━╯
 
-╭═•|✿| *𝙉𝙄𝙆𝙆𝘼 𝘽𝙊𝙏𝙕 ⁱⁿᶜ* |✿|•═╮
-      🔰 *reliable bot company by haki* 🔰
+╭═•|✿| *𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 ⁱⁿᶜ* |✿|•═╮
+      🐉 *reliable bot company by haki* 🐉
 ╰════════════════════════╯
       `;
 
       // Send the image with the more styled latency and uptime message as a caption
       await m.send(
-        "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
+        "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
         { caption: finalMessage },
         "img",
         m
