@@ -15,7 +15,7 @@ function runtime(seconds) {
 smd(
   {
     pattern: "alive", // Command trigger
-    react: "👸", // Reaction when the command is run
+    react: "🐉", // Reaction when the command is run
     desc: "Check bot's status, speed, and latency", // Command description
     category: "misc", // Command category
     filename: __filename, // Filename reference
@@ -30,16 +30,16 @@ smd(
 
     // Final message with latency and speed
     const finalMessage = `
-👸 *Queen Nikka is Alive!*
+🐉 *𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 is Alive!*
 
 *Latency:* ${latency}ms
-*Speed:* As swift as royalty 🚀
+*Speed:* As fast as an Aeroplane ✈️
 
-*=== |🍀| Powered by HAKI |🍀| ===*
+*=== |🐉| Powered by 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 |🐉| ===*
     `;
 
     // Image to be included with the message
-    const imageUrl = "https://files.catbox.moe/bh2fpj.jpg"; // Replace with your actual image URL
+    const imageUrl = "https://i.ibb.co/QXbR0M0/IMG-2996.jpg"; // Replace with your actual image URL
 
     // Send the image with the final message as caption
     await message.send(imageUrl, { caption: finalMessage }, "img", message);
@@ -54,26 +54,26 @@ smd(
     filename: __filename, // Filename reference
   },
   async (message) => {
-    const owner = "HAKI"; // Owner name
-    const repoLink = "https://github.com/hakisolos/Nikka-v3.2"; // Repository link
+    const owner = "𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮"; // Owner name
+    const repoLink = "https://github.com/Reverseking1/ReverseKing"; // Repository link
     const uptime = runtime(process.uptime()); // Get bot uptime
-    const footer = "=== |🍀| Powered by HAKI |🍀| ===";
+    const footer = "=== |🐉| Powered by 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 |🐉| ===";
 
     // Final message content
     const finalMessage = `
-👸 *Queen Nikka MD*
+🐉 *𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 MD*
 
 *Owner:* ${owner}
 *Repository:* ${repoLink}
 *Bot Uptime:* ${uptime}
 
-*LONG LIVE THE QUEEN 👸*
+*LONG LIVE 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 😈👏🏽*
 
 ${footer}
 `;
 
     // Image to be included with the message
-    const imageUrl = "https://files.catbox.moe/bh2fpj.jpg"; // Replace with your actual image URL
+    const imageUrl = "https://i.ibb.co/QXbR0M0/IMG-2996.jpg"; // Replace with your actual image URL
 
     // Send the image with the final message as caption
     await message.send(imageUrl, { caption: finalMessage }, "img", message);
@@ -89,12 +89,12 @@ smd(
     filename: __filename, // Filename reference
   },
   async (message) => {
-    const name = "*Haki 🗿*";
+    const name = "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 🗿*";
     const age = "*18*";
     const occupation = "*Front-end Web Developer*";
     const hobby = "*Coding*";
-    const contact = "*https://wa.me/9112171078*";
-    const footer = "*=|🍀| Powered by HAKI |🍀|=*";
+    const contact = "*https://wa.me/233257514504*";
+    const footer = "*=|🐉| Powered by 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 |🐉|=*";
 
     // Message content
     const finalMessage = `
@@ -110,7 +110,7 @@ ${footer}
     `;
 
     // Image to be included with the message
-    const imageUrl = "https://d.uguu.se/aEVUlhuR.jpg"; // Replace with your actual image URL
+    const imageUrl = "https://i.ibb.co/QXbR0M0/IMG-2996.jpg"; // Replace with your actual image URL
 
     // Send the image with the final message as caption
     await message.send(imageUrl, { caption: finalMessage }, "img", message);
