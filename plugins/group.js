@@ -1219,7 +1219,7 @@ const {
 
 cmd({
   pattern: "attention",
-  react: "👸",
+  react: "🐉",
   desc: "Tags everyone in the group with a royal flair.",
   category: "group",
   filename: __filename
