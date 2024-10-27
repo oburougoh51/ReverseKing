@@ -19,7 +19,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("NIKKA IS WRITING LYRICS  🎵");
+      await m.send("𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 IS WRITING LYRICS  🎵");
 
       // Define the API URL for fetching lyrics
       const apiUrl = `https://api-gifted-tech.onrender.com/api/search/lyrics?query=${encodeURIComponent(query)}&apikey=gifteddevskk`;
