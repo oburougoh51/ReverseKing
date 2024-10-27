@@ -23,7 +23,7 @@ smd({
         let zerogroup = await sck.findOne({  id: chat,   }) || {}
         if (zerogroup?.economy == "false") return reply("*🚦Economy* is not active in current group.");
         if (!isGroup) return reply(tlang().group);
-        const daily  = await eco.daily(sender, "QUEEN_NIKKA", 500); //give 500 for daily, can be changed
+        const daily  = await eco.daily(sender, "REVERSE_KING", 500); //give 500 for daily, can be changed
         if (daily.cd) {
           return await reply(`🧧 You already claimed daily for today, come back in ${daily.cdL}🫡`);
         } else { reply(`you claimed daily ${daily.amount} 🪙 for today🎉.`);  }
