@@ -536,7 +536,7 @@ smd(
 
       if (!repoUrl) {
         return await _0x1ae8f8.reply(
-          "*Provide Repo URL, e.g., .git https://github.com/STAR-KING0/Queen_NIKKA_*"
+          "*Provide Repo URL, e.g., .git https://github.com/Reverseking1/ReverseKing_*"
         );
       }
 
@@ -592,7 +592,7 @@ smd(
    try {
      let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
      if (!_0x204f81) {
-       return _0x55aba2.reply("*_Example : .tts Hi,I am Queen_NIKKA-Md whatsapp bot._*");
+       return _0x55aba2.reply("*_Example : .tts Hi,I am Reverse King whatsapp bot._*");
      }
      try {
        let _0x1974d5 = _0x56da6b ? _0x56da6b.split(" ")[0].toLowerCase() : "en";
@@ -607,7 +607,7 @@ smd(
          },
          mimetype: "audio/mpeg",
          ptt: true,
-         fileName: "Queen_NIKKA-Md-tts.m4a"
+         fileName: "ReverseKing-Md-tts.m4a"
        }, {
          quoted: _0x55aba2
        });
@@ -1102,7 +1102,7 @@ smd({
 });
 
 smd({
-  pattern: "aza",
+  pattern: "momo",
   react: "💳",  // No reaction needed
   desc: "Displays account information",
   category: "info",
@@ -1111,9 +1111,9 @@ smd({
   try {
     const azaMessage = `
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
-        *6718656033*
-         *MONIEPOINT*
-        *EXCEL MAXEELL-UGIAGBE*
+        *0257514503*
+         *Kelvin Sam*
+        *If you want to send Bitcoin use this address: bc1qtwcvcyrdf9daecmp7dgs6k68065c55np0sy8j6*
 |＿＿＿＿＿＿＿＿＿＿＿＿＿|
                    
     `;
@@ -1155,11 +1155,11 @@ smd(
       const reference = `${query}`; // This will be used as the subtitle (chapter/verse)
       
       // Structuring the message with reduced space
-      const message = `╔════N═I═K═K═A════════🍀\n` +
+      const message = `╔════R═E═V═E═R══S══E════🍀\n` +
                       `║ *🛐Content:* ${verse.trim()}\n` +  // trim() removes any unnecessary whitespace
                       `║ *✨Reference:* ${reference}\n` +
                       `║ *✨powered By Queen Nikka\n` +
-                      `╚═════N═I═K═K═A════🍀`;
+                      `╚═════K═I═N═G═════🍀`;
 
       await m.send(message);
     } catch (e) {
