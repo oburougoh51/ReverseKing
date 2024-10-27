@@ -126,7 +126,7 @@ smd(
     try {
       await m.send(
         "https://i.imgur.com/r0J6Veo.jpeg",
-        { caption: "*I AM QUEEN NIKKA 👑*" },
+        { caption: "*I AM 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 👑*" },
         "img",
         m
       );
@@ -146,8 +146,8 @@ smd(
   async (m) => {
     try {
       await m.send(
-        "https://i.imgur.com/DeJiOrr.jpeg",
-        { caption: "*Support QUEEN NIKKA OPay Bank: OPay Digital Services Limited(OPay) palmpay Account: 9030576943 Name:  Nigeria Show Love*" },
+        "https://i.ibb.co/QXbR0M0/IMG-2996.jpg",
+        { caption: "*Send Bitcoin to this address:  bc1qtwcvcyrdf9daecmp7dgs6k68065c55np0sy8j6*" },
         "img",
         m
       );
