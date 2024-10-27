@@ -38,7 +38,7 @@ smd({
     let _0x4342ba = await smdBuffer(_0x4f86cb.thumbnail);
     await _0x213b75.bot.sendMessage(_0x213b75.jid, {
       'image': _0x4342ba,
-      'caption': "\n*Queen_NIKKA • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* " + _0x4f86cb.title + "\n*🍀Url :* " + _0x4f86cb.url + "\n*🍀Description :* " + _0x4f86cb.timestamp + "\n*🍀Views :* " + _0x4f86cb.views + "\n*🍀Uploaded :* " + _0x4f86cb.ago + "\n*🍀Author :* " + _0x4f86cb.author.name + "\n\n== |🍀| powered by Haki |🍀| ==\n"
+      'caption': "\n*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* " + _0x4f86cb.title + "\n*🍀Url :* " + _0x4f86cb.url + "\n*🍀Description :* " + _0x4f86cb.timestamp + "\n*🍀Views :* " + _0x4f86cb.views + "\n*🍀Uploaded :* " + _0x4f86cb.ago + "\n*🍀Author :* " + _0x4f86cb.author.name + "\n\n== |🐉| powered by 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 |🐉| ==\n"
     });
     const _0x23d6e1 = "https://ironman.koyeb.app/ironman/dl/ytdl2?url=" + _0x4f86cb.url";
     let _0x4acf6c = 3;
@@ -255,7 +255,7 @@ smd({
     await _0x2c2023.bot.sendMessage(_0x2c2023.jid, {
       image: _0x3885cc,
       caption: `
-*Queen_NIKKA • ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 
 *Title :* ${_0x4123ae.title}
 *Url :* ${_0x4123ae.url}
@@ -359,7 +359,7 @@ _NIKKA is downloading the video..._
     let thumbnailBuffer = await smdBuffer(firstResult.thumbnail);
     await message.bot.sendMessage(message.jid, {
       image: thumbnailBuffer,
-      caption: `\n*Queen_NIKKA • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* ${firstResult.title}\n*🍀Url :* ${firstResult.url}\n*🍀Description :* ${firstResult.timestamp}\n*🍀Views :* ${firstResult.views}\n*🍀Uploaded :* ${firstResult.ago}\n*🍀Author :* ${firstResult.author.name}\n\n== |🍀| powered by Haki |🍀| ==\n`
+      caption: `\n*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* ${firstResult.title}\n*🍀Url :* ${firstResult.url}\n*🍀Description :* ${firstResult.timestamp}\n*🍀Views :* ${firstResult.views}\n*🍀Uploaded :* ${firstResult.ago}\n*🍀Author :* ${firstResult.author.name}\n\n== |🍀| powered by Haki |🍀| ==\n`
     });
 
     // Now, use the first result's URL with the Ironman API to get the audio download link
@@ -435,7 +435,7 @@ smd({
     let thumbnailBuffer = await smdBuffer(firstResult.thumbnail);
     await message.bot.sendMessage(message.jid, {
       image: thumbnailBuffer,
-      caption: `\n*Queen_NIKKA • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* ${firstResult.title}\n*🍀Url :* ${firstResult.url}\n*🍀Description :* ${firstResult.timestamp}\n*🍀Views :* ${firstResult.views}\n*🍀Uploaded :* ${firstResult.ago}\n*🍀Author :* ${firstResult.author.name}\n\n== |🍀| powered by Haki |🍀| ==\n`
+      caption: `\n*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* ${firstResult.title}\n*🍀Url :* ${firstResult.url}\n*🍀Description :* ${firstResult.timestamp}\n*🍀Views :* ${firstResult.views}\n*🍀Uploaded :* ${firstResult.ago}\n*🍀Author :* ${firstResult.author.name}\n\n== |🍀| powered by Haki |🍀| ==\n`
     });
 
     // Now, use the first result's URL with the Ironman API to get the audio download link
@@ -570,7 +570,7 @@ smd({
     let _0x4342ba = await smdBuffer(_0x4f86cb.thumbnail);
     await _0x213b75.bot.sendMessage(_0x213b75.jid, {
       'image': _0x4342ba,
-      'caption': "\n*Queen_NIKKA • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* " + _0x4f86cb.title + "\n*🍀Url :* " + _0x4f86cb.url + "\n*🍀Description :* " + _0x4f86cb.timestamp + "\n*🍀Views :* " + _0x4f86cb.views + "\n*🍀Uploaded :* " + _0x4f86cb.ago + "\n*🍀Author :* " + _0x4f86cb.author.name + "\n\n== |🍀| powered by Haki |🍀| ==\n"
+      'caption': "\n*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ᴍᴜꜱɪᴄ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*\n\n*🍀Title :* " + _0x4f86cb.title + "\n*🍀Url :* " + _0x4f86cb.url + "\n*🍀Description :* " + _0x4f86cb.timestamp + "\n*🍀Views :* " + _0x4f86cb.views + "\n*🍀Uploaded :* " + _0x4f86cb.ago + "\n*🍀Author :* " + _0x4f86cb.author.name + "\n\n== |🍀| powered by Haki |🍀| ==\n"
     });
 
     // API to download YouTube audio
