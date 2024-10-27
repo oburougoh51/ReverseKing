@@ -244,7 +244,7 @@ cmd(
 
     // Send the image with the final message content
     return await context.send(
-      "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
+      "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
       { caption: finalMessage },
       "img", // Specify the type as 'img'
       context
@@ -687,7 +687,7 @@ cmd(
 
     // Send the image with the final message content
     return await context.send(
-      "https://files.catbox.moe/bh2fpj.jpg", // Replace with your image URL
+      "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
       { caption: finalMessage },
       "img", // Specify the type as 'img'
       context
