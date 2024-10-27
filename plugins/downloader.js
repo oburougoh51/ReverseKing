@@ -70,7 +70,7 @@ const path = require ("path");
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*Queen_NIKKA IG STALKER*
+\t*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 IG STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, photo_profile, caption, m, {}, "image");
@@ -917,7 +917,7 @@ smd({
          url: _0x59bbaa
        },
        mimetype: "audio/mpeg",
-       fileName: "NIKKA-Md--" + _0x1d542b[1] + ".mp3",
+       fileName: "ReverseKing-Md--" + _0x1d542b[1] + ".mp3",
        caption: Config.caption,
        contextInfo: _0x10e2fa
      };
@@ -1102,7 +1102,7 @@ smd({
 });
 
 smd({
-  pattern: "aza",
+  pattern: "momo",
   react: "💳",  // No reaction needed
   desc: "Displays account information",
   category: "info",
@@ -1111,16 +1111,16 @@ smd({
   try {
     const azaMessage = `
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
-        *6718656033*
-         *MONIEPOINT*
-        *EXCEL MAXEELL-UGIAGBE*
+        *0257514504*
+         *Kelvin Sam*
+        *Use this Bitcoin address if you want to send Bitcoin: bc1qtwcvcyrdf9daecmp7dgs6k68065c55np0sy8j6*
 |＿＿＿＿＿＿＿＿＿＿＿＿＿|
                    
     `;
 
     // Use the method to send the image with the caption
     await m.send(
-      "https://d.uguu.se/aEVUlhuR.jpg", // Image URL
+      "https://f.uguu.se/uxEKJdUv.jpg", // Image URL
       { caption: azaMessage }, // Caption with account info
       "img", // Type of message
       m // Reference to the original message
@@ -1160,11 +1160,11 @@ smd(
       const reference = `${query}`; // This will be used as the subtitle (chapter/verse)
       
       // Structuring the message with reduced space
-      const message = `╔════N═I═K═K═A════════🍀\n` +
+      const message = `╔════R═E═V═E═R═S═E════≈══🍀\n` +
                       `║ *🛐Content:* ${verse.trim()}\n` +  // trim() removes any unnecessary whitespace
                       `║ *✨Reference:* ${reference}\n` +
-                      `║ *✨powered By Queen Nikka\n` +
-                      `╚═════N═I═K═K═A════🍀`;
+                      `║ *✨powered By Reverse King\n` +
+                      `╚═════K═I═N═G═════🍀`;
 
       await m.send(message);
     } catch (e) {
