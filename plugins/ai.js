@@ -47,7 +47,7 @@ smd(
       const resultText = data.result; // Extract the text from the result part
 
       // Define your image URL
-      const imageUrl = "https://files.catbox.moe/bh2fpj.jpg"; // Replace with your image URL
+      const imageUrl = "https://i.ibb.co/QXbR0M0/IMG-2996.jpg"; // Replace with your image URL
 
       // Combine the result and footer in the message
       const message = `*Response:* \n\n${resultText}\n\n*Powered by Haki*`; // Add footer
@@ -116,7 +116,7 @@ smd({
       await m.bot.sendFromUrl(
         m.from,
         photoUrl,
-        "*Queen_Alya generated this photo*:",
+        "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 generated this photo*:",
         m,
         {},
         "image"
@@ -210,7 +210,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Queen_Alya generated this photo*:",
+          "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 generated this photo*:",
           m,
           {},
           "image"
@@ -439,7 +439,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Queen_Alya generated this photo*:",
+          "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 generated this photo*:",
           m,
           {},
           "image"
@@ -460,7 +460,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Queen_Alya generated this photo*:",
+          "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 generated this photo*:",
           m,
           {},
           "image"
@@ -526,7 +526,7 @@ smd(
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*QUEEN_ALYAᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
@@ -585,7 +585,7 @@ smd(
                   _0x2ecd2a.howmanyreply += 1;
                   const _0x5a2204 = _0x2acf30.text.indexOf(",");
                   let _0x3f6b59 =
-                    "*QUEEN_ALYA • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
+                    "*𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮 • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
                     _0x2ecd2a.reciever.split("@")[0] +
                     "_*\n*_Msg_Id: " +
                     _0x2ecd2a.id +
@@ -882,7 +882,7 @@ smd(
 smd(
   {
     pattern: "nikka",
-    desc: "Get a response from NIKKA-AI based on user query.",
+    desc: "Get a response from 𝑹𝑬𝑽𝑬𝑹𝑺𝑬𝑲𝑰𝑵𝑮-AI based on user query.",
     category: "ai",
     filename: __filename,
   },
@@ -921,14 +921,14 @@ smd(
 
       // Construct the final styled message
       const message = `
-*🧠 NIKKA-AI Responds:*
+*🧠 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮-AI Responds:*
 
 _${resultText}_
 
-*✨ Powered by Haki*`;
+*✨ Powered by 𝑹𝑬𝑽𝑬𝑹𝑺𝑬 𝑲𝑰𝑵𝑮*`;
 
       // Define the image URL (replace with your desired image URL)
-      const imageUrl = "https://files.catbox.moe/bh2fpj.jpg"; // Update with your actual image URL
+      const imageUrl = "https://i.ibb.co/QXbR0M0/IMG-2996.jpg"; // Update with your actual image URL
 
       // Send the styled response with the image
       await m.send(
