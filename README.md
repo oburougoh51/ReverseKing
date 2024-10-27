@@ -31,7 +31,7 @@
 
    1. - 🎭 `Star` 🌟 this repository.
 - If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/Reverseking1/REVERSE-KING-MD/fork)) this repository.
+2.  - [FORK](https://github.com/Reverseking1/ReverseKing/fork)) this repository.
 3.   - Click [Pair Code](https://reverseking-paircode.onrender.com/pair) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://signup.heroku.com)
