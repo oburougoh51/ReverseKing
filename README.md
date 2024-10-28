@@ -1,4 +1,4 @@
- <h1 align="center"> REVERSE-KING </h1>
+ <h1 align="center"> 🐉 REVERSE-KING 🐉 </h1>
  
 
 <h3 align="center"> <a href="(https://ibb.co/t3q3wFd)"><img src="https://i.ibb.co/6NHNcLd/IMG-4305.jpg" alt="IMG-2462" width=1100 height=350" border="0"></a>🍫 SCROLL DOWN TO DEPLOY 🍫</a></h3> 
@@ -24,14 +24,31 @@
 ---
 
 
+
+
+
+
+
+
 </p>
 
-# Heroku deploy setup
+# ReverseKing Deploy Setup
+
+🎭 `Star` 🌟 this repository.
+- If you don't have a GitHub account, [sign up](https://github.com/join) 
+### 1. FORK THIS REPO
+
+<a href='https://github.com/Reverseking1/ReverseKing/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+### 2. GET SESSION ID HERE
+ 
+<a href="(https://reverseking-paircode.onrender.com/pair)"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="(https://reverseking-paircode.onrender.com/qr)"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 
-   1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/Reverseking1/ReverseKing/fork)) this repository.
+   [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
+
 3.   - Click [Pair Code](https://reverseking-paircode.onrender.com/pair) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://signup.heroku.com)
