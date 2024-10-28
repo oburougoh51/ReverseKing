@@ -19,7 +19,7 @@ I'm a multipurpose bot developed by Reverseking to suit your WhatsApp needs.
 ❤ Made with love by ReverseKing, thank you! 
 `;
 
-    const finalMessage = `${response}\n\n*powered by haki*`; // Customize with your watermark
+    const finalMessage = `${response}\n\n*powered by ReverseKing*`; // Customize with your watermark
 
     await message.send(
       "https://i.ibb.co/QXbR0M0/IMG-2996.jpg", // Replace with your image URL
