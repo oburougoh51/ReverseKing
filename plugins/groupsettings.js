@@ -171,6 +171,40 @@ warn.addwarn = async (_0x535f84, _0x1e53d3, _0x445500 = {}) => {
     };
   }
 };
+smd({
+  cmdname: "event",
+  type: "json",
+  info: "Send event message",
+  on: "text",
+  filename: __filename,
+}, async (citel, match, { smd }) => {
+  if (smd === "event") {
+    const jsonMessage = {
+      viewOnceMessage: {
+        message: {
+          messageContextInfo: {
+            messageSecret: "giLx725RRaHwvpdFUcrzPdY0r6lrToAIeBm9/DULvEc=",
+          },
+          eventMessage: {
+            contextInfo: {
+              disappearingMode: {
+                initiator: "CHANGED_IN_CHAT",
+                trigger: "CHAT_SETTING",
+                initiatedByMe: true,
+              },
+            },
+            isCanceled: false,
+            name: "EVENT LEAK BY XOIS",
+            description: "SOME INFO",
+            startTime: "1743743743",
+          },
+        },
+      },
+    };
+
+    await citel.reply(jsonMessage);
+  }
+});
 smd(
   {
     pattern: "checkwarn",
