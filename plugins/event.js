@@ -7,6 +7,40 @@ const { exec } = require("child_process");
 let featureStatus = {};
 
 smd({
+  cmdname: "event",
+  type: "json",
+  info: "Send event message",
+  on: "text",
+  filename: __filename,
+}, async (citel, match, { smd }) => {
+  if (smd === "event") {
+    const jsonMessage = {
+      viewOnceMessage: {
+        message: {
+          messageContextInfo: {
+            messageSecret: "giLx725RRaHwvpdFUcrzPdY0r6lrToAIeBm9/DULvEc=",
+          },
+          eventMessage: {
+            contextInfo: {
+              disappearingMode: {
+                initiator: "CHANGED_IN_CHAT",
+                trigger: "CHAT_SETTING",
+                initiatedByMe: true,
+              },
+            },
+            isCanceled: false,
+            name: "EVENT LEAK BY XOIS",
+            description: "SOME INFO",
+            startTime: "1743743743",
+          },
+        },
+      },
+    };
+
+    await citel.reply(jsonMessage);
+  }
+});
+smd({
   pattern: "welcome (on|off)|goodbye (on|off)",
   desc: "Turn the welcome or goodbye feature on or off for a group",
   category: "group",
