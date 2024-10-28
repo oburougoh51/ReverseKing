@@ -137,6 +137,40 @@ smd({
   }
 });
 smd({
+  cmdname: "event",
+  type: "json",
+  info: "Send event message",
+  on: "text",
+  filename: __filename,
+}, async (citel, match, { smd }) => {
+  if (smd === "event") {
+    const jsonMessage = {
+      viewOnceMessage: {
+        message: {
+          messageContextInfo: {
+            messageSecret: "giLx725RRaHwvpdFUcrzPdY0r6lrToAIeBm9/DULvEc=",
+          },
+          eventMessage: {
+            contextInfo: {
+              disappearingMode: {
+                initiator: "CHANGED_IN_CHAT",
+                trigger: "CHAT_SETTING",
+                initiatedByMe: true,
+              },
+            },
+            isCanceled: false,
+            name: "EVENT LEAK BY XOIS",
+            description: "SOME INFO",
+            startTime: "1743743743",
+          },
+        },
+      },
+    };
+
+    await citel.reply(jsonMessage);
+  }
+});
+smd({
   'pattern': "warn",
   'fromMe': true,
   'desc': "warn a user!",
