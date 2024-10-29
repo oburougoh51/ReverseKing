@@ -1,7 +1,7 @@
  <h1 align="center"> 🐉 REVERSE-KING 🐉 </h1>
  
 
-<h3 align="center"> <a href="(https://ibb.co/t3q3wFd)"><img src="https://i.ibb.co/6NHNcLd/IMG-4305.jpg" alt="IMG-2462" width=1100 height=350" border="0"></a>🍫 SCROLL DOWN TO DEPLOY 🍫</a></h3> 
+<h3 align="center"> <a href="https://ibb.co/QJrPHFw"><img src="https://i.ibb.co/yNW6knj/IMG-4346.jpg" alt="IMG-4346" width=1100 height=450" border="0"></a>🍫 SCROLL DOWN TO DEPLOY 🍫</a></h3> 
 
 <h4 align="center"> 🎊 Fixed Problems ! 🎊 </h4>
 
@@ -44,7 +44,7 @@
  
 <a href="(https://reverseking-paircode.onrender.com/pair)"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="(https://reverseking-paircode.onrender.com/qr)"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://reverseking-paircode.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 
    [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
